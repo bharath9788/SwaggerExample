@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerExample</name>
+    </assembly>
+    <members>
+        <member name="M:SwaggerExample.Controllers.WeatherForecastController.Get">
+            <summary>
+            Deletes a specific TodoItem.
+            </summary>
+        </member>
+    </members>
+</doc>
